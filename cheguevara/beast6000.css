@@ -1,0 +1,229 @@
+@import url('https://fonts.googleapis.com/css2?family=Sanchez&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Slackey&display=swap');
+html {
+    font-family: 'Sanchez', serif;
+    background-image: url(https://previews.123rf.com/images/dusica69/dusica691603/dusica69160300010/54006054-flag-of-cuba-on-a-brick-wall-illustration-cuban-flags-on-brick-textured-background-flag-of-cuba-pain.jpg);
+}
+
+article aside h1 {
+    padding: 5px;
+    text-align: center;
+    margin-left: 350px;
+    border-width: 4px;
+    border: solid;
+    border-radius: 4px;
+    min-width: 800px;
+}
+.cubanflag {
+    float: right;
+    border-width: 4px;
+    border: solid;
+    border-radius: 4px;
+    border-color: rgba(131, 130, 130, 0.288);
+}
+.early {
+    float: left;
+    border-width: 4px;
+    border: solid;
+    border-radius: 8px;
+    padding: 5px;
+}
+.cigar {
+float: left;
+border-radius: 4px;
+border: solid;
+margin-right: 5px;
+}
+article aside h1 {
+    border-width: 4px;
+    border: solid;
+    vertical-align: top;
+    max-width: 300px; 
+    font-size: 36px;
+    margin-top: 0px;
+    margin-bottom: 0px; 
+    border-radius: 10px;
+    background-color: saddlebrown;
+}
+.sourcesLink {
+    font-family: 'Slackey', cursive;
+    width: 600px;
+    text-align: center;
+    border-radius: 6px;
+    border-width: 4px;
+    border: solid;
+    border-color: rgba(0, 0, 0, 1);
+    background-color: rgb(172, 84, 21);
+    position: absolute;
+    top: 60px;
+    left: 720px;
+}
+.sourcesLink:hover {
+    background-color: black;
+}
+.sourcesLink a:hover {
+    text-decoration: none;
+    background-color: black;
+    color: white;
+}
+.che {
+    width: 600px;
+    text-align: center;
+    border-radius: 6px;
+    border-width: 4px;
+    border: solid;
+    border-color: rgba(0, 0, 0, 1);
+    background-color: rgb(172, 84, 21);
+ 
+}
+.che1 {
+    text-align: center;
+    background-color: rgb(172, 84, 21); 
+    border: solid;
+    border-color: black;
+    border-width: 2px;
+    border-radius: 10px;
+max-width: 600px;
+padding: 5px;
+}
+.che2 {
+    border: solid;
+    border-radius: 10px;
+    border-width: 2px;
+    border-color: rgba(0, 0, 0, 6.288);
+    background-color: saddlebrown;
+    max-width: 600px;
+    padding: 5px;
+}
+.che2 {
+    font-size: 22px;
+    background-color: saddlebrown;
+    max-width: 600px;
+    border-width: 4px;
+    border: solid;
+    padding: 5px;
+}
+.che3 {
+    border-radius: 10px;
+    border-width: 2px;
+    max-width: 600px;
+    
+}
+.che4 {
+    text-align: center;
+    vertical-align: top;
+    border-radius: 10px;
+    background-color: rgb(172, 84, 21);
+    max-width: 600px;
+    border-width: 4px;
+    border: solid;
+    padding: 5px;
+}
+.che5 {
+   
+    font-size: 22px;
+    border-radius: 10px;
+    background-color: saddlebrown;
+    max-width: 600px;
+    border-width: 4px;
+    border: solid;
+    padding: 5px;
+}
+
+.cherevolution {
+    text-align: center;
+    font-size: 22px;
+    border-radius: 10px;
+    background-color: rgb(172, 84, 21);
+    max-width: 600px;
+    border-width: 4px;
+    border: solid;
+    padding: 5px;
+}
+.cherevolution2 {
+    font-size: 22px;
+    border-radius: 10px;
+    background-color: saddlebrown;
+    max-width: 600px;
+    border-width: 4px;
+    border: solid;
+    padding: 5px;
+}
+
+.thefall {
+    padding: 5px;
+    font-size: 22px;
+    border-radius: 10px;
+    background-color: rgb(172, 84, 21);
+    max-width: 600px;
+    border-width: 4px;
+    border: solid;
+    position: absolute;
+    left: 720px;
+    top: 600px;
+}
+.thefall2 {
+    padding: 5px;
+    font-size: 22px;
+    border-radius: 10px;
+    background-color: saddlebrown;
+    max-width: 600px;
+    border-width: 4px;
+    border: solid;
+    position: absolute;
+    left: 720px;
+    top: 650px;
+}
+.cheWorking {
+    position: absolute;
+    left: 720px;
+    top: 870px;
+    max-width: 600px;
+    border-width: 4px;
+    border: solid;
+    border-radius: 10px;
+}
+.active1 {
+    text-align: center;
+    padding: 5px;
+    font-size: 22px;
+    background-color: rgb(172, 84, 21);
+    max-width: 600px;
+    border-width: 4px;
+    border: solid;
+    border-radius: 10px;
+}
+
+.active2 {
+    font-size: 22px;
+    background-color: saddlebrown;
+    max-width: 600px;
+    border-width: 4px;
+    border: solid;
+    border-radius: 10px;
+    padding: 5px;
+}
+.cheDeath {
+    font-size: 22px;
+    border-radius: 10px;
+    background-color: rgb(172, 84, 21);
+    max-width: 600px;
+    border-width: 4px;
+    border: solid;
+    position: absolute;
+    left: 720px;
+    padding: 5px;
+    top: 1340px;
+}
+.cheDeath2 {
+    font-size: 22px;
+    border-radius: 10px;
+    background-color: saddlebrown;
+    max-width: 600px;
+    border-width: 4px;
+    border: solid;
+    position: absolute;
+    left: 720px;
+    top: 1390px;
+    padding: 5px;
+}
